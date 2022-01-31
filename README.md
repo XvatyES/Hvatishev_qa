@@ -1,5 +1,7 @@
 # Hvatishev_qa
 
+                                      Написание тест кейсов страницы поиска:
+
 Тест кейсы тестовой площадки https://kontur.ru/search
 https://docs.google.com/spreadsheets/d/1g_5c-BodZpqQ1HkEBrsBmYtmYnSwM873j8aL0lYfSzw/edit?usp=sharing
 Функциональное тестирование/валидация формы обратной связи/Pairwise/Кратко о Compatibility Testing/Smoke Testing плеера/баг-репорты, составленые используя методику Exploratory Testing.
